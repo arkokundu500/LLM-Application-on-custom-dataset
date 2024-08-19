@@ -1,4 +1,5 @@
-<a href="https://huggingface.co/spaces/arkokundu500/Text_to_SQL_GenAI"><font size="6"><b>Click Here!!</b></font></a>
+<h2>Deployed Link is below</h2>
+<a href="https://huggingface.co/spaces/arkokundu500/Text_to_SQL_GenAI"><font size="15"><b>Click Here!!</b></font></a>
 <br>
 <h1>First and foremost you need the google gemini API key and then save it to .env as <code>GOOGLE_API_KEY=""</code></h1>
 <h1>Here are the following commands used to build the project</h1>
